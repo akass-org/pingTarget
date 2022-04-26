@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>  
+<rss version="2.0">  
+  
+<channel>  
+  <title>Home Page</title>  
+  <link>http://example.com</link>  
+  <description>Home page!!!</description>  
+  <item>  
+    <title>RSS Tutorial</title>  
+    <link>http://example.com/rss</link>  
+    <description>RSS</description>  
+  </item>  
+</channel>  
+  
+</rss>
