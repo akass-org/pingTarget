@@ -1,3 +1,3 @@
 # pingTarget
 
-Pictures from https://pixabay.com/
+Jpg from https://pixabay.com/
